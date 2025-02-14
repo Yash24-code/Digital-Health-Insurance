@@ -41,7 +41,7 @@
   - **Alex (35, Freelancer)** - Needs transparent pricing & AI-driven suggestions
 - Ensured product features aligned with customer expectations.
 
-[User Personas](https://github.com/Yash24-code/Digital-Health-Insurance/blob/main/Screenshot%202025-02-14%20030055.png)
+![User personas](https://github.com/Yash24-code/Digital-Health-Insurance/blob/main/Screenshot%202025-02-14%20030055.png)
 
 📄 [User Persona Document](https://suryawanshiyash.atlassian.net/wiki/x/EoAg)
 
