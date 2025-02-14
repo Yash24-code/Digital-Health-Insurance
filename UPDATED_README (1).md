@@ -93,7 +93,7 @@
   - Risks & compliance
 - Used **PowerPoint** for clarity and better decision-making.
 
-![Market Research Findings](https://github.com/yourusername/your-repo/blob/main/image_6.png)
+
 
 📄 **Market Research Presentation** (Added to Repository)
 
