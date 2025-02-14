@@ -9,7 +9,8 @@
   - 24/7 chatbot support
 - Documented the **Project Scope** in Confluence for real-time collaboration and seamless integration with project management tools.
 
-![Project Scope](https://github.com/yourusername/your-repo/blob/main/image_1.png)
+![Project Scope](https://github.com/Yash24-code/Digital-Health-Insurance/blob/main/Screenshot%202025-02-14%20024036.png)
+
 
 📄 [Project Scope Document](https://suryawanshiyash.atlassian.net/wiki/x/AoAg)
 
@@ -24,7 +25,8 @@
   - **Threats**: Competition, policy changes
 - Identified gaps and refined the product strategy.
 
-![SWOT Analysis](https://github.com/yourusername/your-repo/blob/main/image_2.png)
+![SWOT Analysis](https://github.com/Yash24-code/Digital-Health-Insurance/blob/main/Screenshot%202025-02-14%20024833.png)
+
 
 📄 [Competitor Analysis & SWOT Report](https://suryawanshiyash.atlassian.net/wiki/x/AYAi)
 
@@ -39,7 +41,7 @@
   - **Alex (35, Freelancer)** - Needs transparent pricing & AI-driven suggestions
 - Ensured product features aligned with customer expectations.
 
-![User Personas](https://github.com/yourusername/your-repo/blob/main/image_3.png)
+[User Personas](https://github.com/Yash24-code/Digital-Health-Insurance/blob/main/Screenshot%202025-02-14%20030055.png)
 
 📄 [User Persona Document](https://suryawanshiyash.atlassian.net/wiki/x/EoAg)
 
@@ -58,7 +60,7 @@
   - Beta testing by Month 3
   - Final launch by Month 4
 
-![Project Roadmap](https://github.com/yourusername/your-repo/blob/main/image_4.png)
+![Project Roadmap](https://github.com/Yash24-code/Digital-Health-Insurance/blob/main/Screenshot%202025-02-14%20030654.png)
 
 📄 [Project Roadmap Visualization](https://palm-shame-b21.notion.site/Project-Roadmap-196e2210927e80068995c6ca5ab56e4b?pvs=4)
 
@@ -76,7 +78,8 @@
   - **Transparent pricing**
   - **UI/UX simplification**
 
-![Risk Assessment](https://github.com/yourusername/your-repo/blob/main/image_5.png)
+![Risk Assessment](https://github.com/Yash24-code/Digital-Health-Insurance/blob/main/Screenshot%202025-02-14%20031257.png)
+
 
 📄 [Risk Assessment Report](https://palm-shame-b21.notion.site/Risk-Assessment-Report-197e2210927e80979653f12204375f41?pvs=4)
 
